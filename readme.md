@@ -27,12 +27,12 @@
 
 ## 示例
 
-假设你的 Cloudflare Workers 域名是 https://your-worker-domain.workers.dev，你想要镜像 https://example.com 网站。
+假设你的 Cloudflare Workers 域名是 https://your-worker-domain.workers.dev ，你想要镜像 https://example.com 网站。
 
-1. 在浏览器中访问 https://your-worker-domain.workers.dev。
-2. 在引导页面的表单中输入 https://example.com，然后点击 "访问" 按钮。
+1. 在浏览器中访问 https://your-worker-domain.workers.dev 。
+2. 在引导页面的表单中输入 https://example.com ，然后点击 "访问" 按钮。
 
-你将被重定向到 https://your-worker-domain.workers.dev/https://example.com，这是 https://example.com 的镜像版本。
+你将被重定向到 https://your-worker-domain.workers.dev/https://example.com ，这是 https://example.com 的镜像版本。
 
 ## 注意事项
 
