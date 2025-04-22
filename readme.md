@@ -1,6 +1,6 @@
 # CloudflareWorker-Mirror
 
-功能是从这个项目里独立出的一个路由处理规则: https://q58.club/t/topic/165?u=wood
+功能是从这个项目里独立出的一个路由处理规则: https://www.q58.club/t/topic/165?u=wood
 
 - 反代一切, 接口, 文件等.
 - 反代网站不太行, 因为引用的静态资源不会被反代. 
